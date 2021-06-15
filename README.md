@@ -1,4 +1,4 @@
-# Online education(在线教育)
+# HFI Online education(在线支教平台)
 
 ### 项目介绍
 
