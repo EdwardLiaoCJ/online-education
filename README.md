@@ -72,10 +72,12 @@ Android端：
 
 - IntelliJ IDEA    地址：https://www.jetbrains.com/idea/
 - Android Studio  地址：https://developer.android.google.cn/studio/
+- Eclipse https://www.eclipse.org/ (安装MyBatis)
 
 ### 感谢
 
 ------
+感谢 wangluoxiaozhazha/online-education
 
 感谢各个开源框架的作者，能够让我站在巨人的肩膀上飞翔。
 
